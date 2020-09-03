@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Updates current sources list
 sudo apt update -y
 
 sudo apt install default-jdk -y
